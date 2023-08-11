@@ -275,7 +275,6 @@ https://techtrain.dev/mypage/profile
 TechTrain Railway CLIが最新の更新で取り除かれ、Railwayへの挑戦はVS Code機能拡張に一本化されます。
 そのため、Git Hooksに関連する機能も削除されました。すでに挑戦を開始している方は、pre-commit hookが残っておりGitでのコミットに失敗する可能性があります。その際は、
 
-
 ```shell
 rm .git/hooks/pre-commit
 ```
